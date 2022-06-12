@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random User with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access [this link](https://ajaib-sigma.vercel.app/) to see the result.
 
 ## Available Scripts
 
